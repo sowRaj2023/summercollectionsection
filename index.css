@@ -1,0 +1,35 @@
+.bg-container {
+    height: 100vh;
+    background-color: lightblue;
+    padding: 30px;
+
+}
+
+.card-container {
+
+    background-color: whitesmoke;
+    border: 2px solid black;
+    border-radius: 10px;
+    height: auto;
+    margin-top: 40px;
+    padding: 6px;
+
+}
+
+.cardbody-container {
+    border-top: 2px solid grey;
+}
+
+.image {
+    height: 230px;
+    width: 300px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+button {
+    margin: 30px;
+    background-color: lightgoldenrodyellow;
+    border-radius: 20px;
+    padding: 10px;
+}
